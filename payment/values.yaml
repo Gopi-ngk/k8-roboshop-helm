@@ -1,0 +1,6 @@
+deployment:
+  imageURL: gopi1827/payment
+  imageVersion: v1
+hpa:
+  maxReplicas: 10
+  utilisation: 75
