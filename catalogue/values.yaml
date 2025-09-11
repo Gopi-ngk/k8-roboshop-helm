@@ -1,5 +1,5 @@
 deployment:
-  imageURL: joindevops/catalogue
+  imageURL: gopi1827/catalogue
   imageVersion: v1
 hpa:
   maxReplicas: 10

@@ -1,5 +1,15 @@
-apiVersion: v2
+apiVersion: v2 
 name: payment
-version: 1.0.0 # chart version
+version: 1.0.0 #chart version
 description: payment helm chart description
-appVersion: v1 # application version
+appVersion: v1 #application version
+
+
+
+
+
+# apiVersion: v2
+# name: payment
+# version: 1.0.0 # chart version
+# description: payment helm chart description
+# appVersion: v1 # application version
